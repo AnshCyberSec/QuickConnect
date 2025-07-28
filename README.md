@@ -16,6 +16,13 @@ A simple and modern contact management application built using **React**, **Tail
 
 ---
 
+## 📸 Screenshots
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+
 ## 🚀 Tech Stack
 
 - **Frontend:** React.js, TailwindCSS
@@ -47,12 +54,7 @@ export const firebaseConfig = {
 };
 
 
-## 📸 Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
 
 ---
 
@@ -60,8 +62,9 @@ export const firebaseConfig = {
 
 ```bash
 # Clone the repo
-git clone (link)
-cd contactpro
+git clone https://github.com/AnshCyberSec/QuickConnect.git
+cd QuickConnect
+
 
 # Install dependencies
 npm install
